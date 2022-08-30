@@ -5,8 +5,8 @@ html{
 
 body{
     margin: 0 auto;
-    /*max-width: 500px;*/
-   /* max-height:550px ;*/
+    max-width: 300px;
+  /* max-height:350px ;*/
     position:absolute;
 }  
 
