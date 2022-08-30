@@ -33,13 +33,16 @@ body{
     padding:1px;
 }
 #detail{
-  padding: 2px;  
+  padding: 2px; 
+  align-items: center; 
+  margin: auto;
 }
 
  #first-form {
     
     align-items: center;
     margin-top: 14%;
+    margin: auto;
     
 }
 input{
