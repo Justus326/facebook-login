@@ -125,6 +125,11 @@ color: white;
             width: 55vw;
 
         }
+        @media (max-width: 300px) {
+         #detail2{
+             display: none;
+         }  
+           
         
         }
 
