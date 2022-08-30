@@ -1,6 +1,7 @@
 html{
  box-sizing: inherit;
  font-family: sans-serif;
+ 
 }
 
 body{
@@ -119,6 +120,10 @@ color: white;
     @media (min-width: 500px) {
         #container {
           display:none;
+        }
+        body{
+            width: 55vw;
+
         }
         
         }
