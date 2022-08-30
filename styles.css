@@ -11,8 +11,8 @@ body{
 }  
 
 #container{
-    width: 100px;
-    height: 150px;
+    width: 500px;
+    height: 500px;
     border: 1px solid transparent;
     background-color:#eee;
 }
