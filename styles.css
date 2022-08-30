@@ -96,9 +96,4 @@ a{
 background-color: green;
 color: white;
 }
-   
-@media (max-width:500px) {
-   #container{
-       display:none;
-   } 
-}
+  
