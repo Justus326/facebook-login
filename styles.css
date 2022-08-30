@@ -11,7 +11,7 @@ body{
     width: 600px;
     height: 700px;
     border: 1px solid transparent;
-    background-color:#eee;
+    background-color:#ffff;
 }
 
 .fb-logo{
@@ -61,7 +61,7 @@ input{
     margin-left:32%;    
     width: 36%;
     padding: 6px;
-    border-radius: 25% 25% 25% 25%;
+    border-radius: 6% 6% 6% 6%;
     border-color: transparent;
 
     
@@ -87,34 +87,7 @@ input{
     text-align: center;
     margin-top: 35px;
 }
- h2:before{
-    content: "";
-    width: 100%;
-    height: 2px;
-    display: block;
-    background: silver;
-    position: absolute;
-    top:99%;
-    left: 18%;
-    margin: auto;
-    max-width: 75px;
-    
-
-   
-}
-
- h2:after{
-    content: "";
-    width: 100%;
-    height: 2px;
-    display: block;
-    background: silver;
-    position: absolute;
-    top:99%;
-    right: 66%;
-    margin: auto;
-    max-width: 75px;
-}
+ 
 a{
     text-decoration: none;
    
