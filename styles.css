@@ -5,15 +5,16 @@ html{
 
 body{
     margin: 0 auto;
-    max-width: 500px;
-    max-height:550px ;
+    /*max-width: 500px;*/
+   /* max-height:550px ;*/
+    position:absolute;
 }  
 
 #container{
-    width: 500px;
-    height: 550px;
+    width: 100px;
+    height: 150px;
     border: 1px solid transparent;
-    background-color:#ffff;
+    background-color:#eee;
 }
 
 .fb-logo{
