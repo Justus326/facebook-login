@@ -108,18 +108,13 @@ background-color: green;
 color: white;
 }
   
-@media (max-width: 300px) {
-    #container {
-      width:500px;
-      height: 550px;
-      align-items: center;
-      margin: 0;
-    }
-    }
+
 
     @media (min-width: 800px) {
         #container {
           display:none;
+          align-items: center;
+          margin: 0;
         }
     }
         
