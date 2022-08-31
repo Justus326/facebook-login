@@ -115,6 +115,7 @@ color: white;
           display:none;
           align-items: center;
           margin: 0;
+          position: inherit;
         }
     }
         
