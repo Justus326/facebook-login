@@ -125,14 +125,11 @@ color: white;
             width: 55vw;
 
         }
-        @media (min-width: 701px) {
+        @media (min-width: 600px)and(max-width:601px) {
          #detail2{
              display: none;
          }  
-          .form2{
-              display:none;
-          } 
-        
+                  
         }
 
         #detail2{
@@ -163,7 +160,7 @@ color: white;
             position: absolute;
             padding: 5%;
             margin-top: 20px;
-            margin-left:45px;
+            margin-left:50px;
             height: 50px;
             border-radius:10px;
             border: 1px solid #ccc;
@@ -185,33 +182,9 @@ color: white;
         top:15%;        
        }
 
-       @media (min-width: 701px) {
-        .div-form2{
-            display: none;
-        }
-        #create-button{
-            display: none;
-        }
-        #detail2 p1{
-            display: none;
-        }
-        .celeb{
-            display: none;
-        }
-        #header-div{
-            display: none;
-        }
-        .main-header{
-            display:none;
-        }
-        #detail2-selection{
-            display: none;
-        }
-        footer p{
-            display: none;
-        }
+       
 
-        }  
+       }  
          
             
        .div-form2 h2{
