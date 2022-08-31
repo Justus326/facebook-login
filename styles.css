@@ -117,13 +117,13 @@ color: white;
     }
     }
 
-    @media (min-width: 500px) {
+    @media (min-width: 700px) {
         #container {
           display:none;
         }
     }
         
-        @media (min-width: 601px) {
+        @media (max-width: 701px) {
          #detail2{
              display: none;
          }  
@@ -132,8 +132,8 @@ color: white;
 
         #detail2{
             background-color: rgb(237, 237, 237);
-            width:180%;
-            height:150%;
+            width:240%;
+            height:110%;
             position:absolute;
             z-index: -1;
             margin: auto;
@@ -154,11 +154,11 @@ color: white;
         }
         #form2-button{
             margin: auto;
-            width: 84%;
+            width: 88%;
             position: absolute;
             padding: 5%;
             margin-top: 20px;
-            margin-left:50px;
+            margin-left:30px;
             height: 50px;
             border-radius:10px;
             border: 1px solid #ccc;
@@ -171,7 +171,7 @@ color: white;
         }
        .div-form2{
         width: 35%;
-        height: 60%;
+        height: 57%;
         background-color: #ffff; 
         margin-left: 55%;
         position: inherit;
@@ -182,13 +182,13 @@ color: white;
 
        
 
-       }  
+        
          
             
        .div-form2 h2{
         font-size: 10px;  
         position: relative; 
-        top:20%;
+        top:22%;
         color:blue;
         font-weight: bold;
         margin: auto;
@@ -204,7 +204,7 @@ color: white;
            position: relative;
            top: 35%;
            margin: auto;
-           left:28%;
+           left:26%;
            background-color: green;
            color: #ffff;
            font-weight: bold;
@@ -216,7 +216,7 @@ color: white;
        }
        #detail2 p1{
            position: relative;
-           top:80%;
+           top:75%;
            left:60%;
        }
        .celeb{
