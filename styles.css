@@ -117,13 +117,13 @@ color: white;
     }
     }
 
-    @media (min-width: 700px) {
+    @media (min-width: 800px) {
         #container {
           display:none;
         }
     }
         
-        @media (max-width: 701px) {
+        @media (max-width: 1250px) {
          #detail2{
              display: none;
          }  
