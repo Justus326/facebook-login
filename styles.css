@@ -129,7 +129,9 @@ color: white;
          #detail2{
              display: none;
          }  
-           
+          .form2{
+              display:none;
+          } 
         
         }
 
@@ -180,9 +182,38 @@ color: white;
         position: inherit;
         border: 1px solid #ccc;
         border-radius: 10px;
-        top:15%;
-        
+        top:15%;        
        }
+
+       @media (max-width: 300px) {
+        .div-form2{
+            display: none;
+        }
+        #create-button{
+            display: none;
+        }
+        #detail2 p1{
+            display: none;
+        }
+        .celeb{
+            display: none;
+        }
+        #header-div{
+            display: none;
+        }
+        .main-header{
+            display:none;
+        }
+        #detail2-selection{
+            display: none;
+        }
+        footer p{
+            display: none;
+        }
+
+        }  
+         
+            
        .div-form2 h2{
         font-size: 10px;  
         position: relative; 
