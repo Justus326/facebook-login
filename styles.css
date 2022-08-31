@@ -125,7 +125,7 @@ color: white;
             width: 55vw;
 
         }
-        @media (max-width: 300px) {
+        @media (min-width: 501px) {
          #detail2{
              display: none;
          }  
@@ -163,7 +163,7 @@ color: white;
             position: absolute;
             padding: 5%;
             margin-top: 20px;
-            margin-left:35px;
+            margin-left:45px;
             height: 50px;
             border-radius:10px;
             border: 1px solid #ccc;
@@ -185,7 +185,7 @@ color: white;
         top:15%;        
        }
 
-       @media (max-width: 300px) {
+       @media (min-width: 501px) {
         .div-form2{
             display: none;
         }
