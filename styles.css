@@ -121,11 +121,9 @@ color: white;
         #container {
           display:none;
         }
-        body{
-            width: 55vw;
-
-        }
-        @media (min-width: 600px)and(max-width:601px) {
+    }
+        
+        @media (min-width: 601px) {
          #detail2{
              display: none;
          }  
@@ -134,8 +132,8 @@ color: white;
 
         #detail2{
             background-color: rgb(237, 237, 237);
-            width:260%;
-            height:120%;
+            width:180%;
+            height:150%;
             position:absolute;
             z-index: -1;
             margin: auto;
